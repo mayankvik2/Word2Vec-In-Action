@@ -1,2 +1,2 @@
 # Word2Vec-In-Action
-Visualizing Word2Vec in Tensorflow Playground 
+Traning Word2Vec and Visualizing it in Tensorflow Playground 
